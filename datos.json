@@ -1,0 +1,288 @@
+﻿{
+  "municipio": "Umapal",
+  "tramites": [
+    {
+      "nombre": "Aprobación de pasos de servidumbre de aguas lluvias y servidas",
+      "descripcion": "El usuario mediante oficio dirigido a la Dirección de UMAPAL, solicitará que se le autorice el paso de servidumbre y deberá adjuntar todos los requisitos solicitados para este trámite.",
+      "procedimiento": [
+        "Inspección técnica para determinar si amerita el paso de servidumbre y el lugar de menor afectación para el predio sirviente.",
+        "Notificación al propietario del predio sirviente, con el fin de socializar el paso de servidumbre e intentar que el mismo se lo pueda hacer por mutuo acuerdo por parte de los dueños de los predios dominantes y sirvientes.",
+        "En caso que no llegarán a un acuerdo entre los propietarios de los predios dominantes y sirvientes, se procederá a realizar un informe técnico que será entregado mediante memorando a Alcaldía para conocimiento y aprobación de Cabildo. El mismo que deberá contener:",
+        {
+          "contenido_informe": [
+            "Objeto",
+            "Antecedentes",
+            "Propuesta Técnica",
+            "Marco Legal",
+            "Especificaciones técnicas",
+            "Plazo",
+            "Aclaraciones",
+            "Conclusiones donde deberá constar el área de afectación del predio sirviente."
+          ]
+        }
+      ],
+      "casos_especiales": [
+        {
+          "descripcion": "En caso de que la servidumbre pase por varios predios o tenga una gran longitud, el dueño del predio dominante entregará un diseño de la red realizado por un ingeniero civil y deberá contener: memoria técnica, cálculo, planos (planimetría, perfiles y detalles constructivos), el mismo que deberá ser aprobado por el departamento técnico de UMAPAL y se anexara al informe técnico."
+        },
+        {
+          "descripcion": "En caso que la servidumbre pase por un terreno de propiedad del Municipio de Loja, el técnico encargado de realizar el informe, deberá solicitar al Departamento de Bienes y Patrimonio una Certificación que indique que el predio por donde va a pasar la servidumbre pertenece al Municipio de Loja."
+        }
+      ],
+      "requisitos": [
+        "Solicitud dirigida a la Directora de UMAPAL, por parte del dueño del predio dominante. (hoja de papel valorado)",
+        "Copia de cédula del propietario del predio dominante.",
+        "Pago del impuesto predial actualizado del predio dominante.",
+        "Certificado simple actualizado de la Registraduría de la Propiedad del predio dominante y sirviente"
+      ],
+      "requisitos_barrios": [
+        "Solicitud dirigida a la Directora de UMAPAL, por parte del presidente del barrio. (hoja de papel valorado)",
+        "Copia de cédula del presidente del barrio.",
+        "Certificado de ser presidente del barrio, emitido por el Departamento de Promoción Popular.",
+        "Certificado simple actualizado de la Registraduría de la Propiedad del predio sirviente."
+      ]
+    },
+    {
+      "nombre": "Cambio de nombre o transferencia de dominio (medidores agua potable)",
+      "requisitos": [
+        "Copia de cédula de ciudadanía del nuevo propietario",
+        "Certificado simple del registrador de la propiedad (actualizado)",
+        "Copia pago de impuesto predial urbano o certificado de clave catastral",
+        "Copia de la última planilla de agua potable."
+      ],
+      "nota": "Previo al trámite correspondiente el solicitante deberá estar al día en el cumplimiento de sus obligaciones municipales."
+    },
+    {
+      "nombre": "Factibilidades de agua potable y alcantarillado",
+      "requisitos": [
+        "Formulario debidamente llenado, adjuntar papel valorado (adquirir en la ventanilla N° 12 de Recaudaciones del Municipio de Loja)",
+        "Copia de la cédula del Propietario",
+        "Certificado simple de Registrador de la Propiedad vigente",
+        "Copia del pago del impuesto predial vigente",
+        "Copia de prediseños o planos aprobados",
+        "Copia de oficio emitido por el Jefe de Regulación y Control Urbano donde se pone a conocimiento del propietario que se autoriza la presentación de estudios complementarios.",
+        "De contar con estudio hidrosanitario aprobado, anexar copia del oficio de aprobación.",
+        "Para el caso de propiedad horizontal indicar el número de propiedades, objeto de la declaratoria; y, los medidores de agua potable y acometidas de alcantarillado instalados en el predio."
+      ],
+      "nota": "Previo al trámite correspondiente el solicitante deberá estar al día en el cumplimiento de sus obligaciones municipales."
+    },
+    {
+      "nombre": "Revisión y aprobación de estudios sanitarios",
+      "requisitos": [
+        "Oficio de solicitud de revisión del estudio hidrosanitario en papel valorado, dirigido al Director o Directora de UMAPAL",
+        "Formulario de ficha de estudio hidrosanitario, contendrá toda la información requerida de acuerdo a los campos necesarios, misma que será completada de forma digital. Incluirá el croquis de ubicación y coordenadas en UTM WGS84 17 SUR; así como, la firma del Propietario y del Consultor hidrosanitario (Ing. Civil)",
+        "Copia de cédula de Consultor hidrosanitario y certificado del SENESCYT.",
+        "Copia de cédula de identidad del Propietario",
+        "Factibilidad actualizada de servicio de agua potable y alcantarillado otorgada por UMAPAL",
+        "Certificado de conformidad de los estudios por parte del Propietario",
+        "Memoria técnica en formato original (word, excel, etc.) incluye presupuestos y manual de operación y mantenimiento (para sistemas a presión en edificaciones), debidamente firmada por el Consultor",
+        "Memoria de cálculo en formato original (excel, dwg 2013 o inferior, etc.), firmada por el Consultor",
+        "Planos de infraestructura hidrosanitaria (agua, alcantarillado sanitario y pluvial), firmados por Propietario y/o Urbanizador y Consultor hidrosanitario. Los planos deben encontrarse georreferenciados en sistema de coordenas UTM WGS84 17 Sur.",
+        "Copia de pago del impuesto predial",
+        "Copia de escritura del predio y certificado de Registro de la Propiedad",
+        "Respaldo magnético (CD o DVD) (MEMBRETADO), que contenga toda la información que se relaciona con el estudio hidrosanitario presentado (memorias técnicas, hojas de cálculo, diseños, presupuestos, etc.)"
+      ],
+      "adicionales_construccion": [
+        "Plano de fachada, cortes y croquis de ubicación para edificaciones; planos arquitectónicos para urbanizaciones y conjuntos residenciales",
+        "Copia de oficio emitido por el Jefe de Regulación y Control Urbano donde se pone a conocimiento del propietario que se autoriza la presentación de estudios complementarios.",
+        "Oficio en que se determine la revisión y aprobación de rasantes del proyecto vial otorgado por el Municipio de Loja"
+      ],
+      "adicionales_division_consumos": [
+        "Copia de pago de la última planilla de agua de los medidores existentes en la vivienda."
+      ],
+      "servidumbres": [
+        "Si la servidumbre de acueducto se encuentran en funcionamiento, presentar autorización notariada de propietario del predio sirviente",
+        "De requerirse servidumbre de acueducto, presentar la servidumbre legalizada siguiendo el trámite correspondiente."
+      ],
+      "nota": "El proyecto se presentará a la UMAPAL para su revisión, a nivel de borrador con la documentación señalada, impreso y en CD membretado, incluyendo la ficha del estudio hidrosanitaria. Una vez que se cuente con informe favorable de cumplimiento de factibilidad de servicios, se presentará debidamente anillado, con índice respectivo de memoria y planos, en original y copia de igual contenido."
+    },
+    {
+      "nombre": "Solicitar el hidrocleaner para limpieza de pozo séptico",
+      "requisitos": [
+        "Solicitud en papel valorado dirigida al Director de UMAPAL (adquirir en la ventanilla N° 12 de Recaudaciones del Municipio de Loja), indicando nombres completos, número de teléfono, dirección y firma del propietario",
+        "Copia de cédula del propietario",
+        "Copia del pago del predio urbano actualizado"
+      ]
+    },
+    {
+      "nombre": "Venta de acometidas domiciliarias de agua potable y alcantarillado",
+      "agua_potable": {
+        "requisitos": [
+          "Formulario debidamente llenado, adjuntar papel valorado (adquirir en la ventanilla N° 12 de Recaudaciones del Municipio de Loja)",
+          "Copia de la cédula del Propietario",
+          "Certificado simple de Registrador de la Propiedad vigente",
+          "Copia del pago del impuesto predial vigente",
+          "Copia del permiso de construcción (construcciones nuevas) o copia de la sentencia de declaratoria de propiedad horizontal debidamente certificada, según el caso.",
+          "Copia proyecto hidrosanitario aprobado (conexiones especiales)"
+        ]
+      },
+      "alcantarillado": {
+        "requisitos": [
+          "Formulario debidamente llenado, adjuntar papel valorado (adquirir en la ventanilla N° 12 de Recaudaciones del Municipio de Loja)",
+          "Copia de la cédula del Propietario",
+          "Certificado simple de Registrador de la Propiedad vigente",
+          "Copia del pago del impuesto predial vigente",
+          "Copia del permiso de construcción (construcciones nuevas)",
+          "Copia proyecto hidrosanitario aprobado (conexiones especiales)"
+        ]
+      },
+      "nota": "Previo al trámite correspondiente el solicitante deberá estar al día en el cumplimiento de sus obligaciones municipales."
+    },
+    {
+      "seccion": "B) Avalúos y Catastros",
+      "tramites": [
+        {
+          "nombre": "Actualización de nuevas construcciones",
+          "descripcion": "Se lo solicita para hacer constar la construcción en el predio, bajas de solares no edificados, actualizaciones de catastro.",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución, dirigida al Jefe de Avalúos y Catastros, (con: número cédula, número de teléfono y correo electrónico). Adquirir en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario, copia del pasaporte-Extranjeros, copia del RUC-Personas jurídicas.",
+            "Copias simples de escritura debidamente inscritas en el Registro de la Propiedad.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad actualizado.",
+            "Certificado de Solvencia (adquirirlo en Rentas Municipales).",
+            "Copia del pago del impuesto predial vigente.",
+            "PROPIEDAD CON CONSTRUCCIÓN: Planos Arquitectónicos aprobados por el Municipio de Loja en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario, profesional y sellos municipales) y Permiso de Construcción aprobados por el Municipio de Loja o en su defecto realizar el Plano del perfil constructivo de cada una de las plantas que compone la propiedad en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario y profesional) debidamente georreferenciado.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "Carpeta color Rojo.",
+            "GRABAR EN CD o CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg."
+          ],
+          "nota": "Adjuntar Ficha de Datos del Contribuyente."
+        },
+        {
+          "nombre": "Actualización del catastro",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros, (hacer constar: número cédula, número de teléfono y correo electrónico). Firmada por el propietario. Adquirir en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario (Extranjeros, copia del pasaporte; Personas Jurídicas, copia del RUC).",
+            "Copias simples de escritura debidamente inscritas en el Registro de la Propiedad.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad actualizado.",
+            "Copia del pago del impuesto predial vigente.",
+            "PROPIEDAD CON CONSTRUCCIÓN: Planos Arquitectónicos aprobados por el Municipio de Loja, en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario, profesional y sellos municipales) y Permiso de Construcción aprobados por el Municipio de Loja o en su defecto realizar el Plano del perfil constructivo de cada una de las plantas que compone la propiedad en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario y profesional) debidamente georreferenciado.",
+            "Propiedades Horizontales, copia simple de la Declaratoria de Propiedad Horizontal, donde conste el cuadro de áreas y alícuotas, Planos Arquitectónicos aprobados por el Municipio de Loja en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario, profesional y sellos municipales) georreferenciado y debidamente inscrito en el Registro de la Propiedad. Permiso de Construcción aprobado por el Municipio de Loja.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "En caso de predio rústico, presentar la planimetría geo referenciada.",
+            "GRABAR EN CD / CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg"
+          ],
+          "nota": "Adjuntar Ficha de Datos del Contribuyente"
+        },
+        {
+          "nombre": "Cambio de nombre",
+          "referencia": "(COOTAD Art. 494, Ord. 0060-2023)",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros, (hacer constar: número cédula, número de teléfono y correo electrónico). Adquirir en la ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del nuevo propietario (pasaporte en caso de extranjeros).",
+            "Copias Simples de las escrituras con su razón de inscripción del Registro de la Propiedad.",
+            "Certificado Simple del Registro de la Propiedad actualizado cuando la compra/venta sea más de un año."
+          ]
+        },
+        {
+          "nombre": "Cédula catastral",
+          "referencia": "(COOTAD Art. 494, Ord. Mun. N° 0043-2021 Art. 35, Ord. 0060-2023)",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros, (hacer constar: número cédula, número de teléfono y correo electrónico, firmado por el propietario). Adquirirla en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario, copia del pasaporte-Extranjeros, copia del RUC-Personas jurídicas.",
+            "Copias simples de las escrituras debidamente inscritas en el Registro de la Propiedad.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad Actualizado.",
+            "Certificado de Solvencia (adquirirlo en Rentas Municipales).",
+            "Copia del pago de impuesto predial vigente.",
+            "PROPIEDAD CON CONSTRUCCIÓN: Planos Arquitectónicos aprobados por el Municipio de Loja en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario, profesional y sellos municipales) y Permiso de Construcción aprobados por el Municipio de Loja o en su defecto realizar el Plano del perfil constructivo de cada una de las plantas que compone la propiedad en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario y profesional) debidamente georreferenciado.",
+            "PROPIEDADES HORIZONTALES: copia simple de la Declaratoria de Propiedad Horizontal, donde conste el cuadro de áreas y alícuotas, Planos Arquitectónicos aprobados por el Municipio de Loja en formato .DXF, AutoCAD y en formato PDF (con las firmas de propietario, profesional y sellos municipales) georreferenciado y debidamente inscrito en el Registro de la Propiedad. Permiso de Construcción aprobado por el Municipio de Loja.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "GRABAR EN CD o CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg."
+          ],
+          "nota": "Adjuntar Ficha de Datos del Contribuyente."
+        },
+        {
+          "nombre": "Certificado de Avalúos y Catastros",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros (deberá constar: número de cédula, número de teléfono y correo electrónico). Firmado por el propietario. Adquirir en la Ventanilla de Información de Recaudaciones.",
+            "Copia de cédula del propietario.",
+            "Extranjeros: copia del pasaporte.",
+            "Personas jurídicas: copia del RUC.",
+            "Copias simples de escritura debidamente inscritas en el Registro de la Propiedad.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad actualizado.",
+            "Copia del pago del impuesto predial vigente.",
+            "Propiedad con construcción: Planos arquitectónicos aprobados por el Municipio de Loja en formato .DXF, AutoCAD y en formato PDF (con las firmas del propietario, profesional y los sellos municipales). Permiso de construcción aprobado por el Municipio de Loja o, en su defecto, realizar el plano del perfil constructivo de cada una de las plantas que componen la propiedad en formato .DXF, AutoCAD y en formato PDF (con las firmas del propietario y profesional), debidamente georreferenciado.",
+            "Fotografía del predio (fachada completa con calzada incluida), formato digital .jpg.",
+            "Grabación en CD / Canales digitales: Toda la documentación anterior descrita debe ser digitalizada en formato PDF y la fotografía en formato .jpg."
+          ],
+          "certificado_no_poseer": "A más de los literales 1 y 2, se deberá adjuntar el certificado otorgado por el Registro de la Propiedad de NO poseer bienes.",
+          "nota": "Los requisitos se ajustan Art. 35, literal b) de la Ordenanza 0043-2021, referente a la Aprobación de Planos de Valoración del Suelo Urbano y la Formación de Catastros Prediales, así como la Determinación, Administración y Recaudación del Impuesto a los Predios Urbanos para el Bienio 2022-2023. Art. 19, literal a) de la Ordenanza 0044-2021, referente a la Aprobación de Plano de Zonas Homogéneas y de Valoración de la Tierra Rural, así como la Determinación, Administración y Recaudación del Impuesto a los Predios Rurales del Gobierno Autónomo Descentralizado Municipal del cantón Loja, que regirán en el Bienio 2022-2023"
+        },
+        {
+          "nombre": "Certificado para adjudicaciones en área rústica",
+          "requisitos_especificos": [
+            {
+              "certificado_no_poseer": "A más de los literales 1 al 3: Certificado otorgado por el Registro de la Propiedad de NO poseer bienes actualizado."
+            },
+            {
+              "adjudicaciones_area_rustica": "A más de los literales 1 al 3: Planimetría Georreferenciada (cuando son del MIDUVI en su propio formato)."
+            }
+          ],
+          "nota": "Adjuntar Ficha de Datos del Contribuyente"
+        },
+        {
+          "nombre": "Emisión de nuevas claves catastrales",
+          "requisitos_generales": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros (número cédula, número de teléfono y correo electrónico), firmado por el propietario. Adquirir en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario, copia del pasaporte-Extranjeros, copia del RUC-Personas jurídicas.",
+            "Copias simples de escritura debidamente inscritas en el Registro de la Propiedad. (según el caso)",
+            "Certificado Historiado y Linderado del Registro de la Propiedad Actualizado. (según el caso)",
+            "Certificado de Solvencia (adquirirlo en Rentas Municipales).",
+            "Copia del pago del impuesto predial vigente.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "Carpeta Color Rojo.",
+            "GRABAR EN CD o CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg."
+          ],
+          "urbanizaciones": [
+            "Acta de Entrega y Recepción provisional y/o definitiva de la Urbanización con las obras de infraestructura (Agua, Alcantarillado y Red Eléctrica) y vías de acceso.",
+            "Plano Inscrito en el Registro de la Propiedad en físico y digital (CD) Georreferenciado."
+          ],
+          "subdivisiones": [
+            "Informe de Aprobación emitido por Jefatura de Regulación y Control Urbano o Centro Histórico.",
+            "Plano Inscrito en el Registro de la Propiedad en físico y digital (CD) Georreferenciado.",
+            "Certificado de servicios básicos otorgado por: UMAPAL (Agua, Alcantarillado) y EERSSA (Red Eléctrica)."
+          ],
+          "propiedad_horizontal": [
+            "Copia de la Declaratoria de Propiedad Horizontal inscrita en el Registro de la Propiedad.",
+            "Plano Inscrito en el Registro de la Propiedad en físico y digital (CD) Georreferenciado.",
+            "Copia del Permiso de Construcción (y estar construida la propiedad)."
+          ]
+        },
+        {
+          "nombre": "Ingreso de predios al catastro",
+          "referencia": "(COOTAD Art. 494, Ord. 0060-2023)",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros, (hacer constar: número cédula, número de teléfono y correo electrónico). Adquirir en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario, copia del pasaporte si son extranjeros, copia del RUC si es persona jurídica.",
+            "Copias simples de escritura debidamente inscritas en el Registro de la Propiedad.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad actualizado.",
+            "Certificado de Solvencia (adquirirlo en Rentas Municipales).",
+            "Levantamiento planimétrico georreferenciado (formato DWG o SHAPE) del predio, en caso de tener construcción debe constar en el levantamiento.",
+            "Copia simple del permiso de construcción.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "Carpeta color Naranja.",
+            "GRABAR EN CD o CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg."
+          ],
+          "nota": "Las propiedades que no se pueden catastrar son: Posesión efectiva, Promesa de compra-venta, Gananciales, Cesión de derechos hereditarios, Derechos de copropiedad, Derechos y acciones."
+        },
+        {
+          "nombre": "Inscripción tardía",
+          "descripcion": "Para trámites de Traspasos de Dominio que no se han inscrito en el Registro de la Propiedad dentro del año fiscal de iniciado.",
+          "requisitos": [
+            "Solicitud en especie valorada de la Institución dirigida al Jefe de Avalúos y Catastros (hacer constar: número cédula, número de teléfono y correo electrónico). Adquirir en la Ventanilla N°12 de Recaudaciones.",
+            "Copia de cédula del propietario, copia del pasaporte-Extranjeros, copia del RUC-Personas jurídicas.",
+            "Copia de la escritura protocolizada en la Notaría.",
+            "Certificado Historiado y Linderado del Registro de la Propiedad Actualizado.",
+            "Certificado de Solvencia (adquirirlo en Rentas Municipales).",
+            "Copia del pago del impuesto predial vigente.",
+            "Pago de Alcabalas y Utilidades debidamente certificado por parte del Departamento de Rentas y Recaudaciones.",
+            "Fotografía del predio (fachada completa con calzada incluida) formato digital jpg.",
+            "Carpeta color amarillo.",
+            "GRABAR EN CD o CANALES DIGITALES TODA la documentación anterior descrita digitalizada en formato PDF y fotografía en formato jpg."
+          ],
+          "nota": "Adjuntar Ficha de Datos del Contribuyente."
+        }
+      ]
+    }
+  ]
+}
